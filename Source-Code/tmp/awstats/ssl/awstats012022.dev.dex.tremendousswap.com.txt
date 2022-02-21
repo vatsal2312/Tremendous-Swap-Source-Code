@@ -1,0 +1,418 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/tremxggd/tmp/awstats/ssl/awstats.dev.dex.tremendousswap.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2699                
+POS_VISITOR 10693               
+POS_DAY 13064               
+POS_DOMAIN 3367                
+POS_LOGIN 3769                
+POS_ROBOT 3924                
+POS_WORMS 4094                
+POS_EMAILSENDER 4225                
+POS_EMAILRECEIVER 4368                
+POS_SESSION 13522               
+POS_SIDER 13728               
+POS_FILETYPES 4503                
+POS_DOWNLOADS 4694                
+POS_OS 4764                
+POS_BROWSER 4902                
+POS_SCREENSIZE 5358                
+POS_UNKNOWNREFERER 5432                
+POS_UNKNOWNREFERERBROWSER 5844                
+POS_ORIGIN 6251                
+POS_SEREFERRALS 6386                
+POS_PAGEREFS 6530                
+POS_SEARCHWORDS 6732                
+POS_KEYWORDS 6884                
+POS_MISC 2363                
+POS_ERRORS 6943                
+POS_CLUSTER 3625                
+POS_SIDER_404 7034                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201005031 1 0 10362474561193
+FirstTime 20220106044452
+LastTime 20220127071326
+LastUpdate 20220201074529 1 0 0 0 0
+TotalVisits 66                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 23 1366095 3 3 3714
+1 4 16 2020034 1 1 1238
+2 4 10 9578 1 1 1238
+3 23 58 3936460 13 15 16094
+4 16 53 3223292 13 44 50758
+5 5 13 1462768 2 2 2476
+6 5 13 732402 6 15 16094
+7 3 8 1228403 5 29 35902
+8 17 75 5167268 7 48 59424
+9 25 92 3940620 21 165 198080
+10 11 34 816443 18 126 149798
+11 2 12 27275 6 17 27324
+12 11 57 3376183 6 45 55710
+13 2 7 21996 2 8 9904
+14 0 0 0 0 0 0
+15 2 2 8754 0 0 0
+16 0 0 0 0 0 0
+17 1 1 2092 0 0 0
+18 3 3 13131 0 0 0
+19 1 1 4377 0 0 0
+20 2 2 8754 0 0 0
+21 0 0 0 0 0 0
+22 1 1 4377 0 0 0
+23 6 15 711204 4 30 37140
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+in 60 248 9856555
+us 35 103 6844382
+it 22 75 5832526
+fr 8 15 701099
+gr 8 8 35016
+cl 5 12 1338143
+sg 4 14 1222363
+ca 4 14 1433233
+cn 2 2 4184
+be 2 2 8754
+eu 1 1 4377
+gb 1 1 4377
+id 0 1 78289
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 8754 20220122115140 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 82 22380991 0 0
+Unknown 4 3716 0 0
+svg 1 278 0 0
+json 52 119472 0 0
+css 28 23837 0 0
+png 233 3908573 0 0
+html 96 208223 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/swap.mp3 0 31 718208
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+ios_iphone 3 3
+linuxandroid 202 46
+linux 10 7
+Unknown 15 14
+win10 297 82
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome96.0.4664.45 29 7
+firefox58.0 7 7
+chrome67.0.3396.99 20 4
+chrome63.0.3239.108 5 2
+chrome95.0.4638.69 13 3
+chrome97.0.4692.71 196 54
+opera44.1.2254.143318 12 4
+chrome97.0.4692.99 8 2
+chrome96.0.4664.104 86 23
+chrome96.0.4664.93 1 1
+chrome96.0.4664.110 17 6
+Unknown 15 14
+chrome97.0.4692.87 28 3
+chrome97.0.4692.98 76 16
+chrome88.0.4324.150 1 1
+safari15.1 2 2
+safari14.1.1 1 1
+chrome76.0.3809.71 10 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220125185814
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220124120815
+Go_http_package 20220124052557
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220124120815
+Go_http_package 20220124052557
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220125185814
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 71
+From1 0 0
+From2 0 0
+From3 5 5
+From4 93 451
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://162.0.209.120:80 4 4
+http://127.0.0.1:5500 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 530 656140
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 57
+/images/coins/PIRATE.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/TRX.png 2 https://dev.dex.tremendousswap.com/
+/images/coins/LINA.png 3 https://dev.dex.tremendousswap.com/
+/pool) 1 -
+/images/coins/UST.png 19 https://dev.dex.tremendousswap.com/
+/images/coins/EGLD.png 7 https://dev.dex.tremendousswap.com/
+/images/coins/JAWS.png 14 https://dev.dex.tremendousswap.com/
+/images/coins/CAKE.png 12 https://dev.dex.tremendousswap.com/
+/images/coins/DOGE.png 7 https://dev.dex.tremendousswap.com/
+/images/coins/REEF.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/LINK.png 4 https://dev.dex.tremendousswap.com/
+/images/coins/EOS.png 18 https://dev.dex.tremendousswap.com/
+/images/coins/BURGER.png 24 https://dev.dex.tremendousswap.com/
+/images/coins/SMD.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/NULS.png 7 https://dev.dex.tremendousswap.com/
+/images/coins/mNFLX.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/WBNB.png 10 https://dev.dex.tremendousswap.com/
+/images/coins/mGOOGL.png 2 https://dev.dex.tremendousswap.com/
+/images/coins/BTCST.png 24 https://dev.dex.tremendousswap.com/
+/pools 1 -
+/images/coins/wSOTE.png 2 https://dev.dex.tremendousswap.com/
+/images/coins/CTK.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/Helmet.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/BRY.png 10 https://dev.dex.tremendousswap.com/
+/images/coins/sBDO.png 7 https://dev.dex.tremendousswap.com/
+/images/coins/CREAM.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/TEN.png 2 https://dev.dex.tremendousswap.com/
+/images/coins/COMP.png 8 https://dev.dex.tremendousswap.com/
+/images/coins/BAKE.png 21 https://dev.dex.tremendousswap.com/
+/images/coins/BDO.png 18 https://dev.dex.tremendousswap.com/
+/images/coins/mAMZN.png 1 https://dev.dex.tremendousswap.com/
+/locales/en-US.json 82 https://www.dev.dex.tremendousswap.com/
+/images/coins/ADA.png 21 https://dev.dex.tremendousswap.com/
+/images/coins/PANTHER.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/TMDS.png 5 https://dev.dex.tremendousswap.com/
+/images/coins/BAND.png 21 https://dev.dex.tremendousswap.com/
+/images/coins/FIL.png 5 https://dev.dex.tremendousswap.com/
+/images/coins/AUTO.png 21 https://dev.dex.tremendousswap.com/
+/images/coins/mTSLA.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/LIT.png 3 https://dev.dex.tremendousswap.com/
+/images/coins/SFP.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/SXP.png 2 https://dev.dex.tremendousswap.com/
+/images/coins/HGET.png 5 https://dev.dex.tremendousswap.com/
+/images/coins/BETH.png 18 https://dev.dex.tremendousswap.com/
+/pool 20 http://127.0.0.1:5500/
+/images/coins/FRONT.png 5 https://dev.dex.tremendousswap.com/
+/images/coins/USDC.png 17 https://dev.dex.tremendousswap.com/
+/images/coins/SUSHI.png 3 https://dev.dex.tremendousswap.com/
+/images/coins/lUSD.png 14 https://dev.dex.tremendousswap.com/
+/images/coins/BSCX.png 10 https://dev.dex.tremendousswap.com/
+/images/coins/FUEL.png 5 https://dev.dex.tremendousswap.com/
+/swap 2 https://dev.tremendousswap.com/
+/images/coins/DODO.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/DOT.png 6 https://dev.dex.tremendousswap.com/
+/images/coins/INJ.png 3 https://dev.dex.tremendousswap.com/
+/images/coins/NVT.png 1 https://dev.dex.tremendousswap.com/
+/images/coins/MATH.png 1 https://dev.dex.tremendousswap.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+106.201.253.116 19 57 1771877 20220123005554
+84.17.38.140 12 28 1249242 20220122132118
+84.17.41.94 10 50 4583284 20220119010108
+106.207.255.210 6 31 1444076 20220118121848
+171.61.6.89 5 17 1220748 20220121042544
+171.60.167.231 4 29 731776 20220106080127
+157.34.67.49 4 11 597267 20220122031611
+103.254.155.26 4 15 1222363 20220106044945
+47.247.220.27 4 15 1433233 20220118120924
+110.224.179.188 4 40 849811 20220118095158
+157.34.91.159 3 15 1454791 20220123011001
+27.56.202.115 3 3 0 20220107110323
+122.168.214.9 3 12 1155072 20220122033010
+106.208.175.67 3 20 693169 20220114040246
+157.34.160.70 3 12 680460 20220119002630
+171.61.52.5 3 13 683659 20220119234151
+34.227.48.132 2 11 686953 20220122094215
+171.61.43.41 2 10 1156807 20220127071326
+106.207.210.180 2 2 0 20220118123842
+92.118.160.5 2 2 8754 20220116223236
+45.133.172.211 2 2 8754 20220107030845
+157.34.218.95 2 2 0 20220109084958
+27.62.226.225 2 2 0 20220107233816
+54.145.202.22 2 10 685499 20220122105321
+195.154.61.206 2 2 8754 20220108182358
+51.254.49.103 1 1 4377 20220107045345
+49.35.161.32 0 16 139982 
+138.199.18.142 1 1 4377 20220107030844
+92.118.160.9 1 1 4377 20220122205316
+34.86.35.22 1 1 4377 20220118021358
+92.118.160.57 1 1 4377 20220122040814
+34.96.130.13 1 1 4377 20220110151511
+54.221.27.173 1 1 2092 20220106072628
+92.118.160.17 1 1 4377 20220115183309
+51.254.49.106 1 1 4377 20220107064017
+51.254.49.111 1 1 4377 20220108195732
+92.118.160.37 2 2 8754 20220124120815
+65.155.30.101 2 10 674837 20220106081054
+161.35.253.31 2 2 8754 20220107030844
+87.89.48.69 2 10 674837 20220107031833
+157.34.186.115 2 2 0 20220115091428
+34.77.162.16 1 1 4377 20220114021742
+171.61.33.195 2 8 824 20220126022142
+54.226.161.205 2 10 677793 20220118085845
+61.164.47.194 2 2 4184 20220108171256
+195.213.145.34 2 2 8754 20220107030844
+181.214.206.92 2 2 8754 20220107030845
+181.215.202.19 0 1 78289 
+191.96.59.31 0 1 29602 
+62.210.10.77 1 1 4377 20220107053903
+102.129.204.226 0 1 78289 
+34.86.35.8 1 1 4377 20220125185814
+34.77.162.12 1 1 4377 20220120233731
+161.35.246.138 2 10 674837 20220107032910
+181.214.81.95 2 6 639989 20220106054539
+164.90.241.135 2 10 674837 20220107033151
+34.96.130.15 1 1 4377 20220121042422
+92.118.160.13 1 1 4377 20220124052557
+51.15.191.81 1 1 4377 20220107032615
+191.101.214.16 1 4 581509 20220106054511
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20220106 14 63 4154586 6
+20220107 25 46 2155293 15
+20220108 4 4 12938 4
+20220109 2 2 0 1
+20220110 1 1 4377 1
+20220114 4 20 720714 2
+20220115 3 3 4377 2
+20220116 3 3 13131 3
+20220118 25 129 7973376 9
+20220119 10 36 2591829 3
+20220120 1 1 4377 1
+20220121 6 33 1388275 2
+20220122 42 122 6316840 10
+20220123 5 15 1501127 2
+20220124 2 2 8754 2
+20220125 1 1 4377 1
+20220126 2 8 824 1
+20220127 2 7 1226311 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 51
+15mn-30mn 3
+2mn-5mn 1
+30mn-1h 1
+1h+ 1
+5mn-15mn 3
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 96 208223 66 44
+/locales/en.json 25 107650 0 10
+/manifest.json 22 8106 0 11
+/locales/en-US.json 5 3716 0 1
+/pool 4 3716 0 0
+END_SIDER
