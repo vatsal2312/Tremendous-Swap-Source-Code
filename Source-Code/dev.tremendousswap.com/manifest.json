@@ -1,0 +1,22 @@
+{
+    "short_name": "Flatswap",
+    "name": "Flatswap",
+    "description": "Farm FSWAP with LP Tokens",
+    "homepage_url": "https://dev.tremendousswap.com",
+    "start_url": ".",
+    "icons": [{
+            "src": "favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
